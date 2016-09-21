@@ -281,7 +281,7 @@
     <string name="main_controller_error">Main Controller Error:</string>
     <string name="MCU_NO_ERROR">MCU NO ERROR</string>
     <string name="MCU_CONFIG_ERROR">MCU CONFIG ERROR</string>
-    <string name="MCU_SERIALNUM_ERROR ">MCU SERIALNUM ERROR </string>
+    <string name="MCU_SERIALNUM_ERROR">MCU SERIALNUM ERROR </string>
     <string name="MCU_IMU_ERROR">MCU IMU ERROR</string>
     <string name="MCU_X1_ERROR">MCU X1 ERROR</string>
     <string name="MCU_X2_ERROR">MCU X2 ERROR</string>
